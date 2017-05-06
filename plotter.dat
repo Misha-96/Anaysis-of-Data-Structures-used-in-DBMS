@@ -1,0 +1,5 @@
+#Number of values, Execution Time for BST, Execution Time for AVL, Execution Time for B-Tree100 0.312 0.045 0.679
+500 1.210 0.271 2.932
+1000 1.156 0.314 2.768
+5000 4.598 1.888 13.287
+10000 8.420 4.219 26.176
